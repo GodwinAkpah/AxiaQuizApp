@@ -16,7 +16,7 @@ const search = ref("")
   <div >
 
     <header>
-      <h1>Quizes</h1>
+      <h1> Axia Quizes</h1>
       <input v-model.trim="search" type="text" placeholder="search ..">
     </header>
 
